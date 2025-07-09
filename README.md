@@ -23,7 +23,9 @@ yarn lint
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
-### 预览地址 https://king-dot1.github.io/shopping-zhihui/#/home
+### 预览地址 
+https://king-dot1.github.io/shopping-zhihui/#/home
+PS:注册时的短信验证码246810
 
 ### 项目说明
 该项目是一个综合性的移动电商平台，涵盖了商品展示、搜索、购物车、订单结算、用户中心等多个核心功能模块
